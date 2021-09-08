@@ -1,9 +1,11 @@
----
-title: image2text
-emoji:📘
+--- 
+app_file: app.py
 colorFrom: blue
 colorTo: yellow
-sdk: streamlit
-app_file: app.py
+emoji: 📘
 pinned: false
----
+sdk: streamlit
+title: image2text
+
+
+# image2text
