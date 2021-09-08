@@ -6,6 +6,6 @@ emoji: 📘
 pinned: false
 sdk: streamlit
 title: image2text
-
+---
 
 # image2text
