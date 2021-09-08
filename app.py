@@ -7,7 +7,7 @@ import numpy as np #Image Processing
 st.title("Easy OCR - Extract Text from Images")
 
 #subtitle
-st.markdown("## Optical Character Recognition - Using `easyocr`, `streamlit`")
+st.markdown("## Optical Character Recognition - Using `easyocr`, `streamlit` -  hosted on 🤗 Spaces")
 
 st.markdown("")
 
